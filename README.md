@@ -7,7 +7,7 @@ To run the app locally you will need to have R and RStudio installed. You will n
 
 Next the RDS file in the /data folder needs to be converted into a SQLDB.sqlite file by running the R script inside of the /data folder.
 
-Finally, open the server.R file n RStudio and click 'Run App'.
+Finally, open the server.R file in RStudio and click 'Run App'.
 
 
 ## Licences
